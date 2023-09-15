@@ -1,7 +1,7 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 url: 'https://28shambhavi.github.io/' # your main domain
-baseurl: './' # if you're using custom domain keep this blank example: baseurl: ''
+baseurl: '' # if you're using custom domain keep this blank example: baseurl: ''
 
 on:
   # Runs on pushes targeting the default branch
