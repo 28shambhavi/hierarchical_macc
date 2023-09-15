@@ -5,24 +5,24 @@
 ### Test Structures
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random0.gif" alt="Structure 1" width="300"></td>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random1.gif" alt="Structure 1" width="300"></td>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random2.gif" alt="Structure 1" width="300"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random0.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random1.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random2.gif" alt="Structure 1" width="250"></td>
       </tr>
   <tr>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random3.gif" alt="Structure 1" width="300"></td>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random4.gif" alt="Structure 1" width="300"></td>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random5.gif" alt="Structure 1" width="300"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random3.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random4.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random5.gif" alt="Structure 1" width="250"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random6.gif" alt="Structure 1" width="300"></td>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random7.gif" alt="Structure 1" width="300"></td>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random8.gif" alt="Structure 1" width="300"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random6.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random7.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random8.gif" alt="Structure 1" width="250"></td>
       </tr>
   <tr>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random12.gif" alt="Structure 1" width="300"></td>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random10.gif" alt="Structure 1" width="300"></td>
-    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random11.gif" alt="Structure 1" width="300"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random12.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random10.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="https://github.com/28shambhavi/hierarchical_macc/blob/main/visual_random11.gif" alt="Structure 1" width="250"></td>
   </tr>
 </table>
 
