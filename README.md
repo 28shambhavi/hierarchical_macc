@@ -6,30 +6,30 @@
 <table>
   <tr>
     <td align="center"><img src="visual_random0.gif" alt="Structure 1" width="250"/></td>
-    <td align="center"><img src="visual_random1.gif" alt="Structure 1" width="250"/></td>
-    <td align="center"><img src="visual_random2.gif" alt="Structure 1" width="250"/></td>
+    <td align="center"><img src="visual_random1.gif" alt="Structure 2" width="250"/></td>
+    <td align="center"><img src="visual_random2.gif" alt="Structure 3" width="250"/></td>
       </tr>
   <tr>
-    <td align="center"><img src="visual_random3.gif" alt="Structure 1" width="250"/></td>
-    <td align="center"><img src="visual_random4.gif" alt="Structure 1" width="250"/></td>
-    <td align="center"><img src="visual_random5.gif" alt="Structure 1" width="250"/></td>
+    <td align="center"><img src="visual_random3.gif" alt="Structure 4" width="250"/></td>
+    <td align="center"><img src="visual_random4.gif" alt="Structure 5" width="250"/></td>
+    <td align="center"><img src="visual_random5.gif" alt="Structure 6" width="250"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="visual_random6.gif" alt="Structure 1" width="250"></td>
-    <td align="center"><img src="visual_random7.gif" alt="Structure 1" width="250"></td>
-    <td align="center"><img src="visual_random8.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="visual_random6.gif" alt="Structure 7" width="250"></td>
+    <td align="center"><img src="visual_random7.gif" alt="Structure 8" width="250"></td>
+    <td align="center"><img src="visual_random8.gif" alt="Structure 9" width="250"></td>
       </tr>
   <tr>
-    <td align="center"><img src="visual_random12.gif" alt="Structure 1" width="250"></td>
-    <td align="center"><img src="visual_random10.gif" alt="Structure 1" width="250"></td>
-    <td align="center"><img src="visual_random11.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="visual_random12.gif" alt="Structure 10" width="250"></td>
+    <td align="center"><img src="visual_random10.gif" alt="Structure 11" width="250"></td>
+    <td align="center"><img src="visual_random11.gif" alt="Structure 12" width="250"></td>
   </tr>
 </table>
 
 ### Random Structures in Environment Size 7x7x4
 <table>
   <tr>
-    <td align="center"><img src="struct0.gif" alt="Structure 1" width="250"></td>
+    <td align="center"><img src="struct0.gif" alt="Random Structure 1" width="250"></td>
     <td align="center"><img src="struct1.gif" alt="Structure 2" width="250"></td>
     <td align="center"><img src="struct2.gif" alt="Structure 3" width="250"></td>
       </tr>
@@ -191,9 +191,9 @@
     <tr>
     <td align="center"><img src="struct96.gif" alt="Structure 24" width="250"></td>
     <td align="center"><img src="struct97.gif" alt="Structure 25" width="250"></td>
-    <td align="center"><img src="struct98.gif" alt="Structure 26" width="250"></td>
+    <td align="center"><img src="struct98.gif" alt="Random Structure 99" width="250"></td>
   </tr>
   <tr>
-    <td align="center"><img src="struct99.gif" alt="Structure 27" width="250"></td>
+    <td align="center"><img src="struct99.gif" alt="Random Structure 100" width="250"></td>
     </tr>
 </table>
