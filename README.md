@@ -5,24 +5,24 @@
 ### Test Structures
 <table>
   <tr>
-    <td align="center"><img src="visual_random0.gif" alt="Structure 1" width="250"/></td>
-    <td align="center"><img src="visual_random1.gif" alt="Structure 2" width="250"/></td>
-    <td align="center"><img src="visual_random2.gif" alt="Structure 3" width="250"/></td>
+    <td align="center"><img src="visual_random0.gif" alt="Structure 1" width="300"/></td>
+    <td align="center"><img src="visual_random1.gif" alt="Structure 2" width="300"/></td>
+    <td align="center"><img src="visual_random2.gif" alt="Structure 3" width="300"/></td>
       </tr>
   <tr>
-    <td align="center"><img src="visual_random3.gif" alt="Structure 4" width="250"/></td>
-    <td align="center"><img src="visual_random4.gif" alt="Structure 5" width="250"/></td>
-    <td align="center"><img src="visual_random5.gif" alt="Structure 6" width="250"/></td>
+    <td align="center"><img src="visual_random3.gif" alt="Structure 4" width="300"/></td>
+    <td align="center"><img src="visual_random4.gif" alt="Structure 5" width="300"/></td>
+    <td align="center"><img src="visual_random5.gif" alt="Structure 6" width="300"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="visual_random6.gif" alt="Structure 7" width="250"></td>
-    <td align="center"><img src="visual_random7.gif" alt="Structure 8" width="250"></td>
-    <td align="center"><img src="visual_random8.gif" alt="Structure 9" width="250"></td>
+    <td align="center"><img src="visual_random6.gif" alt="Structure 7" width="300"></td>
+    <td align="center"><img src="visual_random7.gif" alt="Structure 8" width="300"></td>
+    <td align="center"><img src="visual_random8.gif" alt="Structure 9" width="300"></td>
       </tr>
   <tr>
-    <td align="center"><img src="visual_random12.gif" alt="Structure 10" width="250"></td>
-    <td align="center"><img src="visual_random10.gif" alt="Structure 11" width="250"></td>
-    <td align="center"><img src="visual_random11.gif" alt="Structure 12" width="250"></td>
+    <td align="center"><img src="visual_random12.gif" alt="Structure 10" width="300"></td>
+    <td align="center"><img src="visual_random10.gif" alt="Structure 11" width="300"></td>
+    <td align="center"><img src="visual_random11.gif" alt="Structure 12" width="300"></td>
   </tr>
 </table>
 
