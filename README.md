@@ -129,8 +129,8 @@
     <td align="center"><img src="random_structures_focal/random71.gif" alt="Random Structure 71" width="250"></td>
   </tr>
   <tr>
-    <td align="center"><img src="random_structures_focal/random72.gif" alt="Random Structure 72" width="250"></td>
-    <td align="center"><img src="random_structures_focal/random73.gif" alt="Random Structure 73" width="250"></td>
+    <td align="center"><img src="random_structures_focal/random73.gif" alt="Random Structure 72" width="250"></td>
+    <td align="center"><img src="random_structures_focal/random74.gif" alt="Random Structure 73" width="250"></td>
     <td align="center"><img src="random_structures_focal/random75.gif" alt="Random Structure 75" width="250"></td>
     <td align="center"><img src="random_structures_focal/random76.gif" alt="Random Structure 76" width="250"></td>
     <td align="center"><img src="random_structures_focal/random77.gif" alt="Random Structure 77" width="250"></td>
@@ -153,7 +153,7 @@
     <td align="center"><img src="random_structures_focal/random89.gif" alt="Random Structure 89" width="250"></td>
     <td align="center"><img src="random_structures_focal/random90.gif" alt="Random Structure 90" width="250"></td>
     <td align="center"><img src="random_structures_focal/random91.gif" alt="Random Structure 91" width="250"></td>
-    <td align="center"><img src="random_structures_focal/random92.gif" alt="Random Structure 92" width="250"></td>
+    <td align="center"><img src="random_structures_focal/random93.gif" alt="Random Structure 92" width="250"></td>
     <td align="center"><img src="random_structures_focal/random94.gif" alt="Random Structure 94" width="250"></td>
   </tr>
   <tr>
