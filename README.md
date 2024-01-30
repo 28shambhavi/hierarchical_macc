@@ -1,11 +1,13 @@
-
 <p>
    <span style="font-size:40px">
   Hierarchical Planning for Long-Horizon Multi-Agent Collective Construction
    </span>
+   <br>
   <span style="font-size:20px">
 Shambhavi Singh*, Zejian Huang, Akshaya K Srinivasan, Geordan Gutow, Bhaskar Vundurthy, Howie Choset
   </span>
+   <br>
+   <br>
   <span style="background-color:#ffffd0;font-size:20px">
 Accepted at ICRA 2024!
   </span>
