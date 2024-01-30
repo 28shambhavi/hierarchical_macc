@@ -1,7 +1,7 @@
 # Hierarchical Planning for Long-Horizon Multi-Agent Collective Construction
 
 <p style="text-align:center;">
-<span style="background-color: #ffffd0">
+<span style="background-color:#ffffd0;font-size:20px">
 Accepted at ICRA 2024!
 </span>
 </p>
