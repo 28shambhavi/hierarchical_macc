@@ -1,6 +1,8 @@
-## Hierarchical Planning for Long-Horizon Multi-Agent Collective Construction
 
-<p style="text-align:center;">
+<p>
+   <span style="font-size:40px">
+  Hierarchical Planning for Long-Horizon Multi-Agent Collective Construction
+   </span>
   <span style="font-size:20px">
 Shambhavi Singh*, Zejian Huang, Akshaya K Srinivasan, Geordan Gutow, Bhaskar Vundurthy, Howie Choset
   </span>
